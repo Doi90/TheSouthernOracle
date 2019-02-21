@@ -1,4 +1,4 @@
 ## A box without hinges, key, or lid,
 ## Yet golden treasure inside is hid.
 
-Answer <- ""
+Answer <- "orange"
